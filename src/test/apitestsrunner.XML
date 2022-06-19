@@ -1,0 +1,7 @@
+<suite name="RestTestingHomework" parallel="methods" thread-count="2">
+    <test name="RestTesting">
+        <classes>
+            <class name="apitests.APITests"/>
+        </classes>
+    </test>
+</suite>
